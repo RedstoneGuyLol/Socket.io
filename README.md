@@ -4,7 +4,7 @@ Click the button below to deploy the Template. You can also copy this project fo
 
 eg. `https://heroku.com/deploy?template=<URL OF YOUR GITHUB PROJECT>`
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/BotPixel/Socket.io)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/RedstoneGuyLol/Socket.io)
 
 Code is located in `index.js`, if you want to modify the code for your own use, duplicate / clone this GitHub respository for your own use!
 
